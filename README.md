@@ -1,5 +1,5 @@
 # Self-Heal
-Idea/Approach:
+Idea/Approach of this project:
 Self-care means taking the time to do things that help an individual to live well and improve both physical health and 
 mental health. It can include activities like exercises to enhance physical health as well as taking rest or even set 
 priorities for self. 
